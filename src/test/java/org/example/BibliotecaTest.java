@@ -8,6 +8,7 @@ class BibliotecaTest {
 
     @Test
     void adicionarItem() {
+        System.out.println("teste");
     }
 
     @Test
